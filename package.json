@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "af-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Suren's Blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Suren Mouchsiadis <smouchsiadis@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -34,15 +34,15 @@
   "devDependencies": {
     "prettier": "2.2.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "af-blog.com",
   "keywords": [
-    "gatsby"
+    "af-blog.com"
   ],
-  "license": "0BSD",
+  "license": "SEE LICENSE IN <LICENSE>",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/QTtrash/af-blog.git"
   },
   "scripts": {
     "build": "gatsby build",

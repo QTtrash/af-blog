@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Абстрактный Философ`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Сурен Мухсиадис`,
+      summary: `Никакой цензуры, рекламы. Только свобода мысли.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Just Suren's thoughts.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `QTTrash_`,
     },
   },
   plugins: [
